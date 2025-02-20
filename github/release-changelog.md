@@ -3,23 +3,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
  
 ## [0.0.1] - 2025-02-18
 
-### Added
+### ➕ Added
 - Some description goes here...
 - Some description goes here...
 
-### Fixed
+### 🔧 Fixed
 - Some description goes here...
 
 ## [x.y.z] - yyyy-mm-dd (TEMPLATE to COPY)
-### Added
+### ➕ Added
 - item
-### Fixed
+### 🔧 Fixed
 - item
-### Changed
+### 🔄 Changed
 - item
-### Deprecated
+### ⚠️ Deprecated
 - item
-### Removed
+### 🗑️ Removed
 - item
-### Security
+### 🔒 Security
 - item
