@@ -1,2 +1,2 @@
 # guidelines
-This repository includes paqu.io's coding guidelines.
+This repository includes paqu.io's 🦙 organizational and coding guidelines.
